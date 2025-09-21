@@ -1,7 +1,7 @@
 {
-  "primary": "#facc15",
-  "secondary": "#262626",
-  "accent": "#fde047",
+  "primary": "#f8e808",
+  "secondary": "#e8d808",
+  "accent": "#f8d808",
   "success": "#10b981",
   "warning": "#f59e0b",
   "danger": "#ef4444"
